@@ -1,0 +1,1 @@
+/media/miguelmateo/Nuevo\ vol1/Desarrollos\ Personales/rust/think_like_a_programmer/exercise-4/target/debug/exercise-4: /media/miguelmateo/Nuevo\ vol1/Desarrollos\ Personales/rust/think_like_a_programmer/exercise-4/src/main.rs
